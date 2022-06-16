@@ -58,3 +58,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/juergensegura?tab=repositories)
 [![Top Commit](https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/juergensegura?tab=repositories)
 <div>
+
+## 📊 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/juergensegura/github-profile-trophy)
+
+
