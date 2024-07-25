@@ -7,7 +7,6 @@
 <!--<img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=Typescript&logoColor=2F74C0"  height="25px"/>-->
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
 <img alt="React Native" src="https://img.shields.io/badge/React native-436666?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="30px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="30px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-FF6644.svg?style=for-the-badge&logo=npm&logoColor=white" height="30px"/>
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30px"/>
@@ -18,6 +17,8 @@
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="30px"/>
 <!-- <img alt="php" src="https://img.shields.io/badge/-php-7175AA?style=flat-square&logo=php&logoColor=white" height="30px"/> -->
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="30px"/>
+<img alt="SQLDEVELOPER" src="https://img.shields.io/badge/sqldeveloper-20535D?style=for-the-badge&logo=oracle&logoColor=FF5500"  height="30px"/>
 
   
 
