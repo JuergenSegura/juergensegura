@@ -6,7 +6,7 @@
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="30px"/>
 <!--<img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=Typescript&logoColor=2F74C0"  height="25px"/>-->
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="React Native" src="https://img.shields.io/badge/Reactnative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
+<img alt="React Native" src="https://img.shields.io/badge/React native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="30px"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="30px"/>
 <img alt="npm" src="https://img.shields.io/badge/NPM-FF6644.svg?style=for-the-badge&logo=npm&logoColor=white" height="30px"/>
