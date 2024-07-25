@@ -16,7 +16,7 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30px"/>
 <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="30px"/>
 <!-- <img alt="php" src="https://img.shields.io/badge/-php-7175AA?style=flat-square&logo=php&logoColor=white" height="30px"/> -->
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30px"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="30px"/>
 <img alt="SQLDEVELOPER" src="https://img.shields.io/badge/sqldeveloper-20535D?style=for-the-badge&logo=oracle&logoColor=FF5500"  height="30px"/>
 
