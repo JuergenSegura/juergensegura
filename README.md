@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofidevo&label=Profile%20views&color=0e75b6&style=flat" alt="sofidevo" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" /></p>
 
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Welcome to my Github</h1>
 
