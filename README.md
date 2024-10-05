@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" /></p>
 
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Welcome to my Github</h1>
+<!--<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Welcome to my Github</h1>-->
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=75&duration=1400&pause=500&color=FFF&background=000000EE&center=true&multiline=true&width=1920&height=175&lines=Hi;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
