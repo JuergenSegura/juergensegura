@@ -1,4 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" /></p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <p align="right"> <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" /></p>
 
 <!--<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Welcome to my Github</h1>-->
 <h1 align = "center">
@@ -79,3 +80,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/juergensegura/github-profile-trophy)
 
 
+</div>
