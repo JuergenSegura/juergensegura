@@ -5,6 +5,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=75&duration=3000&pause=500&color=FFF&background=000000EE&center=true&multiline=true&width=1920&height=175&lines=Hi;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 
+## 🤝 Let's get connected:
+
+<p>
+  <a href="https://www.linkedin.com/in/juergensegura/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="35px"/></a>
+  <a href="https://www.instagram.com/juergen_segura/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="35px"/></a>
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
@@ -46,12 +52,6 @@
 
 </p>
 
-
-## 🤝 Let's get connected:
-
-<p>
-  <a href="https://www.linkedin.com/in/juergensegura/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="35px"/></a>
-  <a href="https://www.instagram.com/juergen_segura/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="35px"/></a>
 
   <!-- 
   <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
