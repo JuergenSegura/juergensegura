@@ -3,7 +3,7 @@
 
 <!--<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Welcome to my Github</h1>-->
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=75&duration=3000&pause=500&color=FFF&background=000000EE&center=true&multiline=true&width=1920&height=175&lines=Hi;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=75&duration=2000&pause=300&color=FFF&background=000000EE&center=true&multiline=true&width=1920&height=175&lines=Hi;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 
 ## 🤝 Let's get connected:
