@@ -12,9 +12,9 @@
   <a href="https://www.linkedin.com/in/juergensegura/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="35px"/></a>
   <a href="https://www.instagram.com/juergen_segura/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="35px"/></a>
 
-<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<!--<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/juergensegura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+-->
 ## 🛠️ Technologies and Tools I use:
 
 <p>
