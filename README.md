@@ -79,5 +79,7 @@
 ## 📊 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/juergensegura/github-profile-trophy)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
