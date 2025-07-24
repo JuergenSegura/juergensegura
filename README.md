@@ -1,85 +1,75 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <p align="right"> <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" /></p>
+<!-- Profile views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" />
+</p>
 
-<!--<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, Welcome to my Github</h1>-->
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=75&duration=2000&pause=300&color=FFF&background=000000EE&center=true&multiline=true&width=1920&height=175&lines=Hi;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<!-- Animated Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=60&duration=2000&pause=500&color=00FFB2&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
 </h1>
 
-## 🤝 Let's get connected:
+---
 
-<p>
-  <a href="https://www.linkedin.com/in/juergensegura/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="35px"/></a>
-  <a href="https://www.instagram.com/juergen_segura/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="35px"/></a>
+## 🌐 Connect with me
 
-<!--<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
-<a href="https://www.buymeacoffee.com/juergensegura" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
--->
-## 🛠️ Technologies and Tools I use:
-
-<p>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="30px"/>
-<!--<img alt="Typescript" src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=Typescript&logoColor=2F74C0"  height="25px"/>-->
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="React Native" src="https://img.shields.io/badge/React native-436666?style=for-the-badge&logo=react&logoColor=61DAFB" height="30px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="30px"/>
-<!-- <img alt="npm" src="https://img.shields.io/badge/NPM-FF6644.svg?style=for-the-badge&logo=npm&logoColor=white" height="30px"/> -->
-<img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30px"/>
-<!-- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30px"/> -->
-<!-- <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> -->
-<!-- <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/> -->
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="30px"/>
-<img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="30px"/>
-<!-- <img alt="php" src="https://img.shields.io/badge/-php-7175AA?style=flat-square&logo=php&logoColor=white" height="30px"/> -->
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="30px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="30px"/>
-<img alt="SQLDEVELOPER" src="https://img.shields.io/badge/sqldeveloper-20535D?style=for-the-badge&logo=oracle&logoColor=FF5500"  height="30px"/>
-<img alt="Spring boot" src="https://img.shields.io/badge/Spring boot-white?style=for-the-badge&logo=Spring boot&logoColor=green" height="25px"/>
-
-  
-
-<!--<img alt="MySQL" src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=MySQL&logoColor=white" height="30px"/> -->
-  
-<!-- 
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-<img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon Web Services-white?style=for-the-badge&logo=Amazon&logoColor=Black" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
-<img alt="NestJS" src="https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=NestJS&logoColor=white" height="25px"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0081CB?style=for-the-badge&logo=PostgreSQL&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/> 
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/> 
--->
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/juergensegura/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/juergen_segura/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
+---
 
-  <!-- 
-  <a href="#" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>
-  <a href="#" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a>
--->
-  
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLDeveloper-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
+---
 
-## My GitHub contributions summary
+## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=juergensegura&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)]()
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juergensegura&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&theme=radical&hide=html,css" alt="GitHub Stats" />
+</p>
 
-### Activities and Information GITHUB:
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/juergensegura?tab=repositories)
-[![Top Commit](https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&theme=radical&layout=compact&hide=html,css&langs_count=10)](https://github.com/juergensegura?tab=repositories)
-<div>
+## 🏆 GitHub Trophies
 
-## 📊 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues)](https://github.com/juergensegura/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues" alt="Trophies" />
+</p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+---
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
-</div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/juergensegura/juergensegura/snake/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
