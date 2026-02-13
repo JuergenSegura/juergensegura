@@ -46,12 +46,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=juergensegura&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=juergensegura&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&theme=radical&hide=html,css" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&layout=compact&theme=radical&hide=html,css&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&theme=radical&hide=html,css&cache_seconds=86400" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues&cache_seconds=86400" />
 </p>
 
 ---
