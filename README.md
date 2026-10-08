@@ -1,77 +1,80 @@
-<!-- Profile views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=0e75b6&style=flat" alt="juergensegura" />
+<h1 align="center">Juergen Segura</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=420&height=36&lines=Software+Engineer;JavaScript+%C2%B7+Java+%C2%B7+React" alt="Software Engineer" />
 </p>
 
-<!-- Animated Header -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=60&duration=2000&pause=500&color=00FFB2&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi+there!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-  </a>
-</h1>
-
----
-
-## 🌐 Connect with me
+<p align="center">
+  I am a software engineer passionate about continuous learning,<br>
+  which drives me to stay up to date with the latest trends and technologies and support my team.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juergensegura/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/juergen_segura/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
-## 💻 Tech Stack
+<h2 align="center">Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLDeveloper-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=juergensegura&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <strong>Languages</strong><br>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&layout=compact&theme=radical&hide=html,css&cache_seconds=86400&v=1" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&v=1" alt="GitHub Stats" />
+  <strong>Frontend</strong><br>
+  <img alt="React" src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-161B22?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-161B22?style=flat&logo=jquery&logoColor=0769AD" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juergensegura&theme=onedark&title=Commits,Repositories,MultiLanguage,PullRequest,Issues&no-frame=true&margin-w=10&cache_seconds=86400&v=1" alt="Trophies" />
+  <strong>Backend</strong><br>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=node.js&logoColor=5FA04E" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-161B22?style=flat&logo=spring-boot&logoColor=6DB33F" />
 </p>
 
+<p align="center">
+  <strong>Data & tools</strong><br>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=47A248" />
+  <img alt="SQL Developer" src="https://img.shields.io/badge/SQL_Developer-161B22?style=flat&logo=oracle&logoColor=F80000" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" />
+</p>
 
----
+<h2 align="center">Activity</h2>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juergensegura&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=5EEAD4&icon_color=5EEAD4&text_color=c9d1d9&cache_seconds=86400&v=3" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juergensegura&layout=compact&hide=html,css&hide_border=true&bg_color=0d1117&title_color=5EEAD4&text_color=c9d1d9&cache_seconds=86400&v=3" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juergensegura&theme=dark&hide_border=true&background=0d1117&ring=5EEAD4&fire=5EEAD4&currStreakNum=5EEAD4&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&stroke=21262d&cache_seconds=86400" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juergensegura&theme=gitdimmed&column=3&title=Commits,Repositories,MultiLanguage,PullRequest,Issues&no-frame=true&no-bg=true&margin-w=12&cache_seconds=86400&v=3" alt="GitHub trophies" />
+</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juergensegura/juergensegura/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juergensegura/juergensegura/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/juergensegura/juergensegura/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/juergensegura/juergensegura/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=21262d&style=flat" alt="Profile views" />
 </p>
