@@ -1,7 +1,5 @@
-<h1 align="center">Juergen Segura</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=420&height=36&lines=Software+Engineer;JavaScript+%C2%B7+Java+%C2%B7+React" alt="Software Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:5EEAD4&height=200&section=header&text=Hi,%20I'm%20Juergen&fontSize=42&fontColor=06211f&animation=twinkling&fontAlignY=34&desc=Software%20engineer%20%C2%B7%20always%20learning&descAlignY=54&descAlign=50&fontAlign=50" alt="Hi, I'm Juergen" width="100%" />
 </p>
 
 <p align="center">
@@ -17,6 +15,10 @@
   <a href="https://www.instagram.com/juergen_segura/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" alt="Coding at a laptop" width="280" />
 </p>
 
 <h2 align="center">Stack</h2>
@@ -77,4 +79,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=juergensegura&label=Profile%20views&color=21262d&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:134e4a&height=120&section=footer" alt="" width="100%" />
 </p>
